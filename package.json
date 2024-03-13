@@ -1,0 +1,14 @@
+{
+  "name": "restaurant-backend",
+  "version": "1.0.0",
+  "description": "Backend for restaurant list",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "athira prakash",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
